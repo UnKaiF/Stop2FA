@@ -1,16 +1,10 @@
-# No2FA
+# Stop2FA
 No two-factor Auth requirements
 
 GitHub, let me decide how I want my account secured. 
 
 2FA is NOT "more secure" than a good password.
 
-It's just another layer of crap to get logged in.
+I really hate 2FA. I already have experience of losing data because of it. STOP 2FA PLEASE !!!
 
-My projects will upload to Pastebin: https://pastebin.com/u/howtophil
-
-and Bitbucket: https://bitbucket.org/prhoades/
-
-***Note**: Seems that some are forking this and modifying it to point to their new locations.
-Sounds like a good plan to me. You can direct people to a new place and show
-that you are against forced 2FA nonsense.*
+My projects will remain here. I'm not going to delete them, however, and I'm not going to improve them here.
